@@ -53,3 +53,20 @@ The queries help answer real-world business questions such as:
 1. Clone this repository:
    ```bash
    git clone https://github.com/MdShahAlamDA/Bookstore-SQL-Data-Analysis-Project.git
+
+---
+
+## 👨‍💻 Author
+
+**Md Shah Alam**  
+Data Analyst | SQL • Python • Power BI • Excel  
+
+📧 Email: mdshahalam906565@gmail.com  
+🔗 GitHub: [MdShahAlamDA](https://github.com/MdShahAlamDA)  
+🔗 LinkedIn: [linkedin.com/in/md-shah-alam-671602343](https://www.linkedin.com/in/md-shah-alam-671602343/)
+
+> Passionate about transforming raw data into actionable insights through SQL and data analytics.
+
+---
+
+⭐ If you find this project helpful, give it a star on GitHub!
