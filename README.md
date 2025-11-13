@@ -52,4 +52,4 @@ The queries help answer real-world business questions such as:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Bookstore-SQL-Data-Analysis-Project.git
+   git clone https://github.com/MdShahAlamDA/Bookstore-SQL-Data-Analysis-Project.git
